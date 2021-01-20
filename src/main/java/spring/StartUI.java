@@ -1,3 +1,9 @@
+package spring;
+
+import org.springframework.stereotype.Component;
+import spring.ConsoleInput;
+
+@Component
 public class StartUI {
 
     private ConsoleInput consoleInput;
