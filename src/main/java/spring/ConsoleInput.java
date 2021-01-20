@@ -1,7 +1,6 @@
 package spring;
 
 import org.springframework.stereotype.Component;
-
 import java.util.Scanner;
 
 
